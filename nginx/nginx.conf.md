@@ -1,0 +1,1 @@
+# nginx.confの見方
