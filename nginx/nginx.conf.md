@@ -1,1 +1,1 @@
-# nginx.confの見方
+## nginx.confの見方
