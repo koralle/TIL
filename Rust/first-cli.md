@@ -1,8 +1,8 @@
-# 学習内容
+## 学習内容
 
 [Command line apps in Rust](https://rust-cli.github.io/book/index.html#command-line-apps-in-rust)をやった
 
-# 結果
+## 結果
 
 ```rust
 use structopt::StructOpt;
@@ -28,6 +28,6 @@ fn main() {
 
 ```
 
-# 感想
+## 感想
 
 structoptめっちゃ使いやすい

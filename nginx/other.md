@@ -1,4 +1,4 @@
-# その他
+## その他
 
 `ps aux | grep nginx`でちゃんとNginxのmasterプロセスとworkerプロセスが動いていることが確認できた。
 
